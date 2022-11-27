@@ -1,24 +1,24 @@
 <h1 align="center">Welcome to Virtual Doctor 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
-  </a>
-</p>
 
 ## Team Members
 
-👤 **Lakshay Parashar, Pragya Rathore, Mutyala Pavan Kumar**
+👤 **Ayushmaan Kaushik, Devesu Sundram Dev, Dheeraj Kumar, Shriyanshu Shrivastava**
 
-### Lakshay Parashar (2020IMG-033)
+### Ayushmaan Kaushik (2020IMT-021)
 
-- Github: [@DCoder-1](https://github.com/DCoder-1)
+- Github: [@ayushmaan2209](https://github.com/ayushmaan2209)
 
-### Pragya Rathore (2020IMG-049)
+### Devesu Sundram Dev (2020IMT-027)
 
-- Github: [@pika918](https://github.com/pika918)
+- Github: [@devesu-dev](https://github.com/devesu-dev)
 
-### Mutyala Pavan Kumar (2020IMG-041)
+### Dheeraj Kumar (2020IMT-028)
+
+- Github: [@dheerajk15](https://github.com/dheerajk15)
+
+### Shriyanshu Srivastava (2020IMT-096)
+
+- Github: [@Shriyanshu27](https://github.com/Shriyanshu27)
 
 # Project Description
 
@@ -48,7 +48,3 @@
 # Thought Behind The Project
 
 Due to the COVID-19 epidemic, the globe is now undergoing a massive global health catastrophe. Travel is one of the most directly impacted situations. Several regions have enacted stricter regulations, such as a lockdown or stay-at-home orders, to contain the public health crisis at the local level. Almost all events were streamed live online, and online consultations were rapidly expanding to provide safe consultations and medical subscriptions to end-users. The Internet has long been a reliable primary source of health information, but there has always been a question about the data's authenticity. You or someone you know may have needed immediate medical assistance several times, but they've been unavailable for a variety of reasons. As a result, online consultation and medical services are being designed and developed to deal with these issues.
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
